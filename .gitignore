@@ -1,0 +1,4 @@
+dist/
+bots/
+node_modules/
+yarn.lock
